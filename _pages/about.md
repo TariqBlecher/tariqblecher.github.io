@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+A radio astronomer in a previous life, I take inspiration from science and mathematics to make an impact on real world problems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I obtained my PhD from Rhodes University in 2021 in the field of galaxy evolution. My MSc work was cited in the first black hole image release which made global headlines in 2019. 
+
+In my industry experience as a Data Scientist, I have worked on modelling wastewater treatment, optimising fibre planning and analytics for mobile network drive tests.
+
+Contact me at tariq.blecher@gmail.com
