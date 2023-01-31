@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tariq Blecher"
   avatar : "/assets/images/cederberg.jpg"
-  bio    : "A record of my experiments in science and software."
+  bio    : "A museum for my muse-ings"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
