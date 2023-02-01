@@ -1,5 +1,5 @@
 ---
-title: "Write your scientific thesis more efficiently"
+title: "A strategy to efficiently write your scientific thesis"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
