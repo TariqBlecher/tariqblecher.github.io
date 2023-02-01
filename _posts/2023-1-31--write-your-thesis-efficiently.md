@@ -1,6 +1,13 @@
-# Advice for writing your scientific thesis 
-- Strategies for efficiently writing your scientific thesis.
-Keywords : academic writing, technical writing, Latex, thesis, science writing, markdown, writing hacks, writing strategies
+---
+title: "Write your scientific thesis efficiently"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - academic writing
+  - Latex
+  - writing strategies
+---
 
 ## Writing brain <!--section: Introduction st 3 pr 2 -->
 In the novel *Untold Night and Day* by Bae Suah, the manager of a museum relays his experience attending a poet's convention to the young museum administrator: 
