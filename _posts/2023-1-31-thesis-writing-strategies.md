@@ -9,7 +9,7 @@ tags:
   - writing strategies
 ---
 
-## Writing brain <!--section: Introduction st 3 pr 2 -->
+<!--section: Introduction st 3 pr 2 -->
 In the novel *Untold Night and Day* by Bae Suah, the manager of a museum relays his experience attending a poet's convention to the young museum administrator: 
 
 “When I first saw them [the poets], I was struck by how old, how grey, how bleak they seemed, almost without exception. It was so pronounced that at first I felt shocked. It wasn’t just abstract, it was a physical sensation coming from their bodies, as though they were emitting particles. When they gathered in the lecture hall even the lights seemed to lose their radiance, becoming dull, making the room gloomy. I don’t actually recall whether they were especially old, biologically speaking. What I do remember is their faded grey hair, their bent, almost hunched backs, their listlessly bowed necks, the glinting spectacles shielding their myopic eyes, their fatigue-inflamed irises, the harsh scent of cheap fabric, fake leather bags, facial muscles stiffened into a mask of long-suppressed frustration and sadness [...]”
@@ -20,7 +20,7 @@ Now, it's open to interpretation exactly why Bae Suah depicted the poets in this
 <!-- What's the problem segway? st 3 pr 3 -->
 Now that we've commiserated, allow me to explain the strategy which I used while writing my MSc and Ph.D. theses. Actually, before that, why did I need a strategy - i.e. what are the problems when writing a thesis or essay?
 
-## Interlocking Problems <!--section: Description of problem st 1 pr 1 -->
+## Interlocking Problems <!--section: Description of problem st 3 pr 1 -->
 
 <!--Non-terminating writing Intro: Long parse & edit times, Excessive checking for completion, writing fluff before meat, Culminates in frustration st 3 pr 1-->
 I found the most devilish problem is that writing can become a non-terminating process. As one writes, one generates more content, this needs to be constantly re-read in order to check for various things. Firstly, to check if it's complete  within itself as a section of writing with no mistakes in grammar, logic, referencing, etc. Secondly, to check how a given paragraph fits into the flow of the larger section. Thirdly, to check if the points raised in that section or paragraph link correctly to other points in other sections. Lastly, to remind yourself what that section or paragraph is actually about. As time goes on, increasingly more time is spent re-reading text. What I realized is that most of this re-reading is unnecessary and can cause the writing process to become seriously inefficient. 
