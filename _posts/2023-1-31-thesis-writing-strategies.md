@@ -28,7 +28,7 @@ I found the most devilish problem is that writing can become a non-terminating p
 <!--Large projects need infrastructure..a segway to solution st 3 pr 2 -->
 Massive building projects require large amounts of infrastructure. The same goes for writing projects, and I suspect that this is even more the case with academic writing. Here is my advice for students writing their dissertations. It's what worked for me. Hopefully, it works for you too!
 
-## A Solution <!--section: Solution st 1 pr 1 -->
+## A Solution <!--section: Solution st 3 pr 1 -->
 <!-- Introduction to the notion of comment strings for those not familiar. st 3 pr 1 -->
 My infrastructure solution relies on *comment strings*. Now if you've only written using WYSIWYG (What You See Is What You Get) document editors such as Word then this will be unfamiliar to you. In other document editing frameworks such as LaTeX and Markdown the document which you edit (essentially a text file) gets post-processed into a different format (usually PDF or HTML) which you would show to readers. In this kind of framework, a line or section of text can be marked so that it does not appear in the final, processed version.
 For example, in the LaTeX framework, you would use prefix a line with %, e.g.  <br> 
@@ -57,6 +57,10 @@ I usually find looking at a full wall of text intimidating. Should I starting re
 
 <!--Platforms pr 2 st 3 -->
 There are many different platforms which can facilitate such a structure. I wrote my thesis with [TexStudio](https://www.texstudio.org) which uses LaTeX. I loved it because it had great text-folding support. Funnily enough, I am actually writing this post as a Markdown document in [VSCode](https://code.visualstudio.com) which is a great code editor so naturally, it has great folding support. 
+
+The online LaTeX platform [Overleaf](https://www.overleaf.com) has collapsible subsections, and you can also separate your thesis based off chapters.
+
+
 One should probably be able to implement a hacky version of comments in a Word. If anyone manages to do this, let me know and I'll add it to this post. As a starter, my brother tells me that Microsoft word has collapsible headings.
 
  
